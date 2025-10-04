@@ -1,0 +1,23 @@
+{
+  "name": "pruebaclase",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/dvizc/Developer-Pack-Ethers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvizc/Developer-Pack-Ethers/issues"
+  },
+  "homepage": "https://github.com/dvizc/Developer-Pack-Ethers#readme",
+  "dependencies": {
+    "ethers": "^6.15.0"
+  }
+}
